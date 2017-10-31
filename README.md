@@ -2,4 +2,6 @@
 
 My very **first** repository.
 
-Details, details ...
+Details, details ... added by rebecca campbell
+
+Edited by mahmoud awawda
